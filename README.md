@@ -1,5 +1,6 @@
 # CRYPTOGRAPHY AND NETWORK SECURITY 
 DAY 1:   
+
 Q1 - Caesar Cipher technique   
 Q2 - Vigenere Cipher technique   
 Q3 - Vernam Cipher technique   
@@ -7,12 +8,14 @@ Q4 - Use network reconnaissance tools like WHOIS, dig, traceroute, nslookup to g
 Q5 - Write a C program that contains a string (char pointer) with a value \Hello World’. The program should XOR each character in this string with 0 and display the result.   
 
 DAY 2:   
+
 Q6 - Implement DES Algorithm     
 Q7 - Implement RSA Algorithm   
 Q8 - Analyze basic networking and Security  commands with examples   
 Q9 - How to do subnetting and how to calculate subnet mask   
 
 DAY 3:   
+
 Q10 - Implement Diffie-Hellman  key exchange algorithm   
 Q11 - Implement MD5 Algorithm    
 Q12 - Analyze various Cyber and Network Security Attacks   
