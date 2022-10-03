@@ -1,5 +1,5 @@
 # CRYPTOGRAPHY AND NETWORK SECURITY 
-DAY 1:
+DAY 1:   
 Q1 - Caesar Cipher technique   
 Q2 - Vigenere Cipher technique   
 Q3 - Vernam Cipher technique   
